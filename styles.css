@@ -58,7 +58,7 @@ body {
   position: absolute;
   inset: -4vmax;
   z-index: -2;
-  background-image: url("assets/playas-doradas.jpg");
+  background-image: url("playas-doradas.jpg");
   background-position: center;
   background-size: cover;
   filter: saturate(0.72) contrast(1.04) brightness(0.78);
